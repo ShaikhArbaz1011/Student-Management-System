@@ -1,0 +1,16 @@
+.navbar navbar-expand-lg bg-body-tertiary ,.container-fluid {
+    background: linear-gradient(90deg,black, rgb(85, 238, 85) ) !important;
+}
+.body{
+    background: url('/static/asset/mcc.png') no-repeat center center;
+
+   
+}
+.navbar-brand {
+    font-size: 28px;
+    color: #ffffff !important;     /* Overrides Bootstrap default */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  }
+.nav-link{
+    color: white !important ;
+}
