@@ -1,11 +1,7 @@
 .navbar navbar-expand-lg bg-body-tertiary ,.container-fluid {
-    background: linear-gradient(90deg,black, rgb(85, 238, 85) ) !important;
+    background: linear-gradient(90deg,rgb(28, 0, 111), rgb(85, 238, 85) ) !important;
 }
-.body{
-    background: url('/static/asset/mcc.png') no-repeat center center;
 
-   
-}
 .navbar-brand {
     font-size: 28px;
     color: #ffffff !important;     /* Overrides Bootstrap default */
